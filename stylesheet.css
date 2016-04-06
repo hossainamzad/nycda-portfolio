@@ -1,7 +1,25 @@
+body {
+	font-family: Arial;
+	background-color: #333333;
+}
+p {
+	width: 80%;
+	background-color: white;
+	margin-right: auto;
+	margin-left: auto;
+	border-color: black;
+	border-style: solid;
+}
 .social_media{
 	display: block;
 }
 .wraper{
+	padding: 10px;
+	width: 90%;
+	margin: 0 auto;
+	text-align: center;
+}
+.big_wraper{
 	padding: 10px;
 	width: 90%;
 	margin: 0 auto;
@@ -14,7 +32,11 @@ img {
 	margin-right: 10px;
 }
 h1	{
+	width: 80%;
 	color: red;
+	background-color: black;
+	margin-right: auto;
+	margin-left: auto;
 
 }
 h2	{
