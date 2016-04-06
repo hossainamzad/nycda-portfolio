@@ -1,0 +1,46 @@
+.social_media{
+	display: block;
+}
+.wraper{
+	width: 90%;
+	margin: 0 auto;
+	text-align: center;
+}
+img {
+	width:30%;
+	height:20%;
+	float: left;
+	margin-right: 10px;
+}
+h1	{
+
+}
+h2	{
+	text-align: center;
+	display: block;
+	color: maroon;
+}
+footer {
+	clear: both;
+	text-align: center;
+}
+.the_footer{
+	border-top: 5px solid green;
+}
+.heading{
+	text-align: center;
+	font: arial;
+}
+#institution,#skills,#education,#hobby{
+	vertical-align: top;
+	display: inline-block;
+	color: black;
+	width: 20%;
+}
+#button{
+	background: yellow;
+	border: 3px solid blue;
+	border-radius: 38px;
+	color: yellow;
+
+}
