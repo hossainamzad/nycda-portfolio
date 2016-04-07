@@ -1,6 +1,7 @@
 body {
 	font-family: Arial;
-	background-color: #333333;
+	background-color: ;
+	border:3px solid black;
 }
 p {
 	width: 80%;
@@ -9,6 +10,18 @@ p {
 	margin-left: auto;
 	border-color: black;
 	border-style: solid;
+	padding: 10px;
+}
+nav li{
+	color: black;
+	float: right;
+	margin-right: 300px;
+
+}
+ul li {
+	
+	list-style-type: none;
+	color: black;
 }
 .social_media{
 	display: block;
@@ -40,9 +53,17 @@ h1	{
 
 }
 h2	{
+	border: 3px;
 	text-align: center;
 	display: block;
 	color: maroon;
+}
+h3 {
+	width: 80%;
+	color: red;
+	background-color: black;
+	margin-right: auto;
+	margin-left: auto;
 }
 footer {
 	clear: both;
