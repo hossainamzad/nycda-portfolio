@@ -1,15 +1,13 @@
 body {
 	font-family: Arial;
 	background-color: ;
-	border:3px solid black;
+
 }
 p {
 	width: 80%;
 	background-color: white;
 	margin-right: auto;
 	margin-left: auto;
-	border-color: black;
-	border-style: solid;
 	padding: 10px;
 }
 nav li{
@@ -19,12 +17,11 @@ nav li{
 
 }
 ul li {
-	
-	list-style-type: none;
 	color: black;
 }
 .social_media{
-	display: block;
+	display: inline-block;
+	margin-left: 100px;
 }
 .wraper{
 	padding: 10px;
@@ -37,6 +34,7 @@ ul li {
 	width: 90%;
 	margin: 0 auto;
 	text-align: center;
+	border:3px solid black;
 }
 img {
 	width:30%;
@@ -46,8 +44,8 @@ img {
 }
 h1	{
 	width: 80%;
-	color: red;
-	background-color: black;
+	color: green;
+	background-color: grey;
 	margin-right: auto;
 	margin-left: auto;
 
@@ -79,14 +77,14 @@ footer {
 #institution,#skills,#education,#hobby{
 	vertical-align: top;
 	display: inline-block;
-	color: black;
+	color: green;
 	width: 20%;
 }
 #button{
-	background: yellow;
+	background: grey;
 	border: 3px solid blue;
 	border-radius: 38px;
-	color: yellow;
+	color:
 
 }
 #home_page{
